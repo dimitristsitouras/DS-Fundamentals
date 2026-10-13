@@ -1,0 +1,1 @@
+The lesson of week 2 was related to clearing and manipulating data in a way that we can reduce noise and create a more trustworthy dataset.
