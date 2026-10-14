@@ -1,0 +1,1 @@
+Week 1 was about studying what Data Science is , setting up our Data Science Environment and learning python basics for Data Science.
