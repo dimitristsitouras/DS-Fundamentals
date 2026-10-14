@@ -2,9 +2,7 @@ import pandas as pd
 
 import numpy as np
 
-
-df = pd.read_csv(r'D:/Online _Μεταπτυχιακό/GDS6000AOL - DATA SCIENCE FUNDAMENTALS - FALL TERM 2026/Week 2/Exercise/dirty_data_sample.csv')
-
+df = pd.read_csv(r'week2/Dataset/dirty_data_sample.csv')
 
 print(df)
 
