@@ -1,1 +1,15 @@
 .vscode/
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+  
+# Data files
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+ 
+# Virtual Environments
+venv/
+.env/
+env/
