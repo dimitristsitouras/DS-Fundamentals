@@ -1,0 +1,1 @@
+Week 3 was about data visualization in Python, covering the basics of Matplotlib and advanced plotting with Seaborn. We also learn about to  design and create clear, effective plots from data
